@@ -1,11 +1,16 @@
 # 0x96f theme for Bat
 
-This is a port of the [0x96f theme for Zed](https://github.com/filipjanevski/zed-theme) by
-[@filipjanevski](https://github.com/filipjanevski) for use with
-[Bat](https://github.com/sharkdp/bat), a "cat clone with syntax highlighting and
-Git integration". I personally use 0x96f as my theme in [Zed](https://zed.dev/) and
-[Warp](https://www.warp.dev/) (with some minor alterations)
-and so I wanted to have the same colour scheme in Bat which I use extensively.
+This is a port of the [0x96f theme for
+Zed](https://github.com/filipjanevski/zed-theme) by
+[@filipjanevski](https://github.com/filipjanevski) that I made primarily for use
+with [Bat](https://github.com/sharkdp/bat), a "cat clone with syntax
+highlighting and Git integration". I personally use 0x96f as my theme in
+[Zed](https://zed.dev/) and [Warp](https://www.warp.dev/) (with some minor
+alterations) and so I wanted to have the same colour scheme in Bat which I use
+extensively. That said, it is a TextMate theme (as that's what Bat uses), and so
+presumably is suitable for use with anything else which uses that format.
+Suggestions for renaming the repo accordingly for better visibility would be
+welcome.
 
 The initial step to doing this was converting Filip's earlier
 [0x96f theme for VS Code](https://github.com/filipjanevski/0x96f-vscode-theme) into TextMate
