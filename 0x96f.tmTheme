@@ -10,23 +10,23 @@
         <key>settings</key>
         <dict>
           <key>accent</key>
-          <string>#FCFCFA</string>
+          <string>#FFBD3E</string>
           <key>background</key>
           <string>#262427</string>
           <key>caret</key>
-          <string>#FCFCFA</string>
+          <string>#FFBD3E</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
           <key>lineHighlight</key>
-          <string>#262427</string>
+          <string>#333032</string>
           <key>selection</key>
-          <string>#383438</string>
+          <string>#504550</string>
           <key>activeGuide</key>
           <string>#262427</string>
           <key>findHighlight</key>
-          <string>#FCFCFA</string>
+          <string>#686068</string>
           <key>misspelling</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -37,7 +37,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-         <string>#FCFCFA</string>
+         <string>#FF7272</string>
         </dict>
       </dict>
       <dict>
@@ -48,7 +48,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#BCDF59</string>
         </dict>
       </dict>
       <dict>
@@ -59,7 +59,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#49CAE4</string>
         </dict>
       </dict>
       <dict>
@@ -70,7 +70,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -81,7 +81,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#807580</string>
         </dict>
       </dict>
       <dict>
@@ -92,7 +92,7 @@
         <key>settings</key>
         <dict>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#757075</string>
         </dict>
       </dict>
       <dict>
@@ -103,7 +103,7 @@
           <key>name</key>
           <string>Comments and overrides inside comments</string>
           <key>foreground</key>
-          <string>#8B8B8A</string>
+          <string>#757075</string>
         </dict>
       </dict>
       <dict>
@@ -356,7 +356,7 @@
           <key>name</key>
           <string>Sections</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -444,7 +444,7 @@
           <key>name</key>
           <string>Namespace</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -488,7 +488,7 @@
           <key>name</key>
           <string>Operator</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -499,7 +499,7 @@
           <key>name</key>
           <string>Operator</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -510,7 +510,7 @@
           <key>name</key>
           <string>Entity name type</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -521,7 +521,7 @@
           <key>name</key>
           <string>Tag attribute</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -576,7 +576,7 @@
           <key>name</key>
           <string>custom literal</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -668,7 +668,7 @@
           <key>name</key>
           <string>Operator</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -833,7 +833,7 @@
           <key>name</key>
           <string>Braces, delimiters</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -877,7 +877,7 @@
           <key>name</key>
           <string>Class string name (i.e. in html attributes)</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -888,7 +888,7 @@
           <key>name</key>
           <string>ID string name (i.e. in html attributes)</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -965,7 +965,7 @@
           <key>name</key>
           <string>Punctuation</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -976,7 +976,7 @@
           <key>name</key>
           <string>Punctuation tags</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -987,7 +987,7 @@
           <key>name</key>
           <string>Group (i.e. in regex)</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -1009,7 +1009,7 @@
           <key>name</key>
           <string>Variable indicator (i.e. in php or in include directives in sass)</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -1020,7 +1020,7 @@
           <key>name</key>
           <string>Punctuation section embedded (i.e. ?php blocks in html)</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -1053,7 +1053,7 @@
           <key>name</key>
           <string>Punctuation in markdown links</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -1064,7 +1064,7 @@
           <key>name</key>
           <string>Meta braces</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -1177,7 +1177,7 @@
           <key>name</key>
           <string>source</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -1188,7 +1188,7 @@
           <key>name</key>
           <string>SASS, SCSS default</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -1247,7 +1247,7 @@
           <key>fontStyle</key>
           <string>normal</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -1269,7 +1269,7 @@
           <key>name</key>
           <string>imported Java libraries</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -1302,7 +1302,7 @@
           <key>name</key>
           <string>Source in template string</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -1346,7 +1346,7 @@
           <key>name</key>
           <string>String regexp begin / end</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -1401,7 +1401,7 @@
           <key>name</key>
           <string>function brackets, comma's</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -1423,7 +1423,7 @@
           <key>name</key>
           <string>Support variables</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -1469,7 +1469,7 @@
           <key>name</key>
           <string>text</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -1480,7 +1480,7 @@
           <key>name</key>
           <string>Search result</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -1491,7 +1491,7 @@
           <key>name</key>
           <string>Variable</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -1502,7 +1502,7 @@
           <key>name</key>
           <string>Function arguments</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -1557,7 +1557,7 @@
           <key>name</key>
           <string>read/write variables</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -1568,7 +1568,7 @@
           <key>name</key>
           <string>Fields, properties, members and attributes of a class or other data structure should use:</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
@@ -1590,7 +1590,7 @@
           <key>name</key>
           <string>Variable property</string>
           <key>foreground</key>
-          <string>#FCFCFA</string>
+          <string>#FCFCFC</string>
         </dict>
       </dict>
       <dict>
