@@ -15,6 +15,10 @@ that resulted in a number of errors. I've addressed them as best I can and tried
 any older colour choices to the ones found in the Zed theme. However, due to my complete lack
 of familiarity with the TextMate theme format, I'm certain that improvements could be made.
 
+## Screenshot
+
+![Screenshot](screenshot.png)
+
 ## Manual install
 
 - Copy the `0x96f.tmTheme` file from this repo into `~/.config/bat/themes`.
