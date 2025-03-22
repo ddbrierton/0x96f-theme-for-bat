@@ -488,7 +488,7 @@
           <key>name</key>
           <string>Operator</string>
           <key>foreground</key>
-          <string>#FCFCFC</string>
+          <string>#AEE8F4</string>
         </dict>
       </dict>
       <dict>
@@ -499,7 +499,7 @@
           <key>name</key>
           <string>Operator</string>
           <key>foreground</key>
-          <string>#FCFCFC</string>
+          <string>#AEE8F4</string>
         </dict>
       </dict>
       <dict>
@@ -521,7 +521,7 @@
           <key>name</key>
           <string>Tag attribute</string>
           <key>foreground</key>
-          <string>#FCFCFC</string>
+          <string>#AEE8F4</string>
         </dict>
       </dict>
       <dict>
@@ -668,7 +668,7 @@
           <key>name</key>
           <string>Operator</string>
           <key>foreground</key>
-          <string>#FCFCFC</string>
+          <string>#AEE8F4</string>
         </dict>
       </dict>
       <dict>
