@@ -40,10 +40,10 @@ If you are also using [delta](https://github.com/dandavison/delta) then I person
 settings complimentary:
 
 ```shell
-git config --global	delta,line-numbers-minus-style = "#94494a"
-git config --global	delta,minus-style = "syntax #4c2e31"
-git config --global	delta,minus-emph-style = "syntax #94494a"
-git config --global	delta,line-numbers-plus-style = "#718240"
-git config --global	delta,plus-style = "syntax #3e432d"
-git config --global	delta,plus-emph-style = "syntax #718240"
+git config --global delta,line-numbers-minus-style = "#94494a"
+git config --global delta,minus-style = "syntax #4c2e31"
+git config --global delta,minus-emph-style = "syntax #94494a"
+git config --global delta,line-numbers-plus-style = "#718240"
+git config --global delta,plus-style = "syntax #3e432d"
+git config --global delta,plus-emph-style = "syntax #718240"
 ```
