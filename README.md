@@ -35,3 +35,15 @@ of familiarity with the TextMate theme format, I'm certain that improvements cou
 
 - Copy the `0x96f.tmTheme` file from this repo into `~/.config/bat/themes`.
 - Run the command `bat cache --build`.
+
+If you are also using [delta](https://github.com/dandavison/delta) then I personally find the following
+settings complimentary:
+
+```shell
+git config --global	delta,line-numbers-minus-style = "#94494a"
+git config --global	delta,minus-style = "syntax #4c2e31"
+git config --global	delta,minus-emph-style = "syntax #94494a"
+git config --global	delta,line-numbers-plus-style = "#718240"
+git config --global	delta,plus-style = "syntax #3e432d"
+git config --global	delta,plus-emph-style = "syntax #718240"
+```
