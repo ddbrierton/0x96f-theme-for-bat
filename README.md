@@ -1,3 +1,10 @@
+Filip, if you see this in time, I plan to change this private to repo to public
+on Monday, at which point I will remove you as a collaborator, but I wanted you
+to have the chance to give it a quick look as it is derivative of your work, I
+wanted you to have an opportunity to request or make any changes.
+
+Best, Darren
+
 # 0x96f theme for Bat
 
 This is a port of the [0x96f theme for
